@@ -1,9 +1,5 @@
 package com.cucumberMaven;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
